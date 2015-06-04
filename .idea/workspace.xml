@@ -493,12 +493,19 @@
       <workItem from="1432619857285" duration="8505000" />
       <workItem from="1432670307062" duration="9569000" />
       <workItem from="1433314311354" duration="9204000" />
-      <workItem from="1433401377490" duration="5997000" />
+      <workItem from="1433401377490" duration="6038000" />
     </task>
+    <task id="LOCAL-00001" summary="A* incomlete">
+      <created>1433408866175</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1433408866175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93850000" />
+    <option name="totallyTimeSpent" value="93891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="52" width="1845" height="970" extended-state="0" />
@@ -545,7 +552,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="A* incomlete" />
+    <option name="LAST_COMMIT_MESSAGE" value="A* incomlete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
